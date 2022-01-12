@@ -25,4 +25,12 @@ https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTP-server/
     }
 
     const server = http.createServer(requestListener);
+    
+    //(or)
+    //const server = http.creatServer((req,res)=> {} )
+    
     server.listen(8080);
+    
+   
+    
+    
