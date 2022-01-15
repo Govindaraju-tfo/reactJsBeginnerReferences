@@ -37,3 +37,6 @@ https://www.tutorialspoint.com/nodejs/nodejs_streams.htm
 
 ## express js
 https://expressjs.com/en/5x/api.html
+
+## Express.js express.json() Function
+https://www.geeksforgeeks.org/express-js-express-json-function/
