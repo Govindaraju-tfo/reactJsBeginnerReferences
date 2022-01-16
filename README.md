@@ -43,3 +43,6 @@ https://expressjs.com/en/guide/routing.html
 
 ## Express.js express.json() Function
 https://www.geeksforgeeks.org/express-js-express-json-function/
+
+## Model-Routes-Controllers-Services Directory Structure
+https://sodocumentation.net/node-js/topic/10785/route-controller-service-structure-for-expressjs
