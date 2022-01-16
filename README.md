@@ -46,3 +46,6 @@ https://www.geeksforgeeks.org/express-js-express-json-function/
 
 ## Model-Routes-Controllers-Services Directory Structure
 https://sodocumentation.net/node-js/topic/10785/route-controller-service-structure-for-expressjs
+
+## serve-index
+http://expressjs.com/en/resources/middleware/serve-index.html
