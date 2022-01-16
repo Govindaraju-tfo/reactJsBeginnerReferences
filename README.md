@@ -49,3 +49,6 @@ https://sodocumentation.net/node-js/topic/10785/route-controller-service-structu
 
 ## serve-index
 http://expressjs.com/en/resources/middleware/serve-index.html
+
+# NODEMAILER
+https://nodemailer.com/about/
