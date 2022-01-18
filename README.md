@@ -81,3 +81,22 @@ https://coderrocketfuel.com/article/store-passwords-in-mongodb-with-node-js-mong
 
 # node-jsonwebtoken
 https://github.com/auth0/node-jsonwebtoken
+
+# RS256 key
+### Online RSA Key Generator
+https://travistidwell.com/jsencrypt/demo/
+### Node-RSA
+https://www.npmjs.com/package/node-rsa
+
+## node js crypto
+  var crypto = require('crypto');
+
+  var prime_length = 60;
+  var diffHell = crypto.createDiffieHellman(prime_length);
+
+  diffHell.generateKeys('base64');
+  console.log("Public Key : " ,diffHell.getPublicKey('base64'));
+  console.log("Private Key : " ,diffHell.getPrivateKey('base64'));
+
+  console.log("Public Key : " ,diffHell.getPublicKey('hex'));
+  console.log("Private Key : " ,diffHell.getPrivateKey('hex'));
