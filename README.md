@@ -57,3 +57,7 @@ https://www.npmjs.com/package/express-rate-limit
 https://www.javatpoint.com/expressjs-file-upload
 # NODEMAILER
 https://nodemailer.com/about/
+
+
+# How to read environment variables from Node.js
+https://nodejs.dev/learn/how-to-read-environment-variables-from-nodejs
