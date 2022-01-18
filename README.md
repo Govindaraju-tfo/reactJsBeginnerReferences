@@ -74,3 +74,6 @@ https://www.npmjs.com/package/get-port
 # mongoose Middleware
 https://mongoosejs.com/docs/middleware.html
 Middleware (also called pre and post hooks) are functions which are passed control during execution of asynchronous functions. Middleware is specified on the schema level and is useful for writing plugins.
+
+## Store Passwords In MongoDB With Node.js, Mongoose, & Bcrypt
+https://coderrocketfuel.com/article/store-passwords-in-mongodb-with-node-js-mongoose-and-bcrypt
