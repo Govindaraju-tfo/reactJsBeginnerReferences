@@ -65,7 +65,8 @@ https://nodemailer.com/about/
 # How to read environment variables from Node.js
 https://nodejs.dev/learn/how-to-read-environment-variables-from-nodejs
 
-
+## How to Validate Data using joi Module in Node.js ?
+https://www.geeksforgeeks.org/how-to-validate-data-using-hapi-joi-module-in-node-js/
 
 ## get-port
 https://www.npmjs.com/package/get-port
