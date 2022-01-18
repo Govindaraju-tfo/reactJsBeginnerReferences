@@ -53,6 +53,9 @@ http://expressjs.com/en/resources/middleware/serve-index.html
 ## DDOS prevention/ Save API's from DDoS Attack
 https://www.npmjs.com/package/express-rate-limit
 
+## Generating Errors using HTTP-errors module in Node.js
+https://www.geeksforgeeks.org/generating-errors-using-http-errors-module-in-node-js/
+
 # Express.js File Upload
 https://www.javatpoint.com/expressjs-file-upload
 # NODEMAILER
@@ -61,6 +64,8 @@ https://nodemailer.com/about/
 
 # How to read environment variables from Node.js
 https://nodejs.dev/learn/how-to-read-environment-variables-from-nodejs
+
+
 
 ## get-port
 https://www.npmjs.com/package/get-port
