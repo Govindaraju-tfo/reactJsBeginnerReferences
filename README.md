@@ -77,3 +77,7 @@ Middleware (also called pre and post hooks) are functions which are passed contr
 
 ## Store Passwords In MongoDB With Node.js, Mongoose, & Bcrypt
 https://coderrocketfuel.com/article/store-passwords-in-mongodb-with-node-js-mongoose-and-bcrypt
+
+
+# node-jsonwebtoken
+https://github.com/auth0/node-jsonwebtoken
