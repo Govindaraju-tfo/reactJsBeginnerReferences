@@ -8,11 +8,20 @@ https://nodejs.org/en/
 https://www.geeksforgeeks.org/node-js-global-objects/
 
 
-## Node.js | NPM (Node Package Manager)
+## Require keyword https://flexiple.com/javascript-require-vs-import/
 https://www.geeksforgeeks.org/node-js-npm-node-package-manager/
 
   - NPM (Node Package Manager) is the default package manager for Node.js and is written entirely in Javascript. 
   - The required packages and modules in Node project are installed using NPM.
+
+
+## How is require() different from import()
+
+### 1) require()
+In NodeJS, require() is a built-in function to include external modules that exist in separate files. require() statement basically reads a JavaScript file, executes it, and then proceeds to return the export object. require() statement not only allows to add built-in core NodeJS modules but also community-based and local modules.
+
+### 2) import()
+  import() & export() statements are used to refer to an ES module. Other modules with file types such as .json cannot be imported with these statements. They are permitted to be used only in ES modules and the specifier of this statement can either be a URL-style relative path or a package name. Also, the import statement cannot be used in embedded scripts unless such script has a type="module". A dynamic import can be used for scripts whose type is not “module”
 
 
 ## How do I create a HTTP server?
