@@ -14,6 +14,15 @@ https://www.geeksforgeeks.org/node-js-npm-node-package-manager/
   - NPM (Node Package Manager) is the default package manager for Node.js and is written entirely in Javascript. 
   - The required packages and modules in Node project are installed using NPM.
 
+## serve
+https://www.npmjs.com/package/serve
+    Assuming you would like to serve a static site, single page application or just a static file (no matter if on your device or on the local network), this package is just the right choice for you.
+
+    Once it's time to push your site to production, we recommend using Vercel.
+
+    In general, serve also provides a neat interface for listing the directory's contents:
+
+
 
 ## How is require() different from import()
 
