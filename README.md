@@ -1,8 +1,9 @@
 # HTML Visual studio plugins - https://marketplace.visualstudio.com/
- Auto Rename Tag 
- Bracket Pair Colorizer 2
- HTML Snippets
- Prettier - Code formatter
+  Auto Rename Tag 
+  Bracket Pair Colorizer 2
+  HTML Snippets
+  Prettier - Code formatter
+  Live Server
 
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
