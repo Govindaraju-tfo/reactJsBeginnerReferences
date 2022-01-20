@@ -106,3 +106,5 @@ https://www.npmjs.com/package/node-rsa
 
 # redis-commander
 https://www.npmjs.com/package/redis-commander
+  Redis web management tool written in node.js
+
