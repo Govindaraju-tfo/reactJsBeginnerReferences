@@ -1,3 +1,9 @@
+# HTML Visual studio plugins
+ Auto Rename Tag 
+ Bracket Pair Colorizer 2
+ HTML Snippets
+ Prettier - Code formatter
+
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
 
