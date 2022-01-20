@@ -5,6 +5,10 @@
       Prettier - Code formatter
       Live Server
 
+## HTML Block and Inline Elements
+https://www.w3schools.com/html/html_blocks.asp
+
+
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
 
