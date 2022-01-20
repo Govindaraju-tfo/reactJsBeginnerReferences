@@ -1,4 +1,4 @@
-# HTML Visual studio plugins
+# HTML Visual studio plugins - https://marketplace.visualstudio.com/
  Auto Rename Tag 
  Bracket Pair Colorizer 2
  HTML Snippets
