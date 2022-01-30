@@ -17,6 +17,10 @@ https://www.w3schools.com/css/css_boxmodel.asp
 
 https://www.w3schools.com/cssref/css3_pr_filter.asp
 
+### CSS radial-gradient() Function
+https://www.w3schools.com/cssref/func_radial-gradient.asp
+
+
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
 
