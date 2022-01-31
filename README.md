@@ -20,6 +20,8 @@ https://www.w3schools.com/cssref/css3_pr_filter.asp
 ### CSS radial-gradient() Function
 https://www.w3schools.com/cssref/func_radial-gradient.asp
 
+### CSS Pseudo-classes
+https://www.w3schools.com/css/css_pseudo_classes.asp
 
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
