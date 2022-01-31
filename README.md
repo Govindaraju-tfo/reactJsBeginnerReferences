@@ -26,6 +26,12 @@ https://www.w3schools.com/css/css_pseudo_classes.asp
 ### CSS Pseudo-elements
 https://www.w3schools.com/css/css_pseudo_elements.asp
 
+# CSS Layout - The display Property
+      https://www.w3schools.com/css/css_display_visibility.asp
+            A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+
+
 # reactJsBeginnerReferences
 reference link to begin with nodejs, reactjs
 
