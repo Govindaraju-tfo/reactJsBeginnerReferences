@@ -13,7 +13,8 @@
   In React projects, we don't create separate HTML files, because JSX allows us to write HTML and JavaScript combined together in the same file,
   like in the example above. You can, however, separate your CSS in another file.
   
-  
+
+
 
   JSX is very practical, because we can also execute any JavaScript code (logic, functions, variables, and so on) inside the HTML directly by using curly braces { }, like this:
   
@@ -27,3 +28,8 @@ I won't go into further details of JSX, but make sure that you consider the foll
     Some attributes like “class” become “className” (because class refers to JavaScript classes), “tabindex” becomes “tabIndex” 
     and should be written camelCase
     We can’t return more than one HTML element at once, so make sure to wrap them inside a parent tag:
+
+
+  <img width="975" alt="Screenshot 2022-05-31 at 10 54 51 PM" src="https://user-images.githubusercontent.com/17598334/171235723-d61e6cc5-43f1-40d7-ae64-e7c523c2094e.png">
+  
+  
