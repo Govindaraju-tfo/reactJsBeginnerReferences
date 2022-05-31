@@ -25,3 +25,16 @@
     npm start
     
  
+## How To Install and Use the Yarn Package Manager for Node.js
+  https://www.digitalocean.com/community/tutorials/how-to-install-and-use-the-yarn-package-manager-for-node-js
+  
+        Yarn is a package manager for Node.js that focuses on speed, security, and consistency.
+        It was originally created to address some issues with the popular NPM package manager. 
+        Though the two package managers have since converged in terms of performance and features, Yarn remains popular, especially in the world of React development.
+        
+        ### Some of the unique features of Yarn are:
+
+              A per-project caching mechanism, that can greatly speed up subsequent installs and builds
+              Consistent, deterministic installs that guarantee the structure of installed libraries are always the same
+              Checksum testing of all packages to verify their integrity
+              “Workspaces”, which facilitate using Yarn in a monorepo (multiple projects developed in a single source code repository)
