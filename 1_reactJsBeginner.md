@@ -14,3 +14,16 @@
   like in the example above. You can, however, separate your CSS in another file.
   
   
+
+  JSX is very practical, because we can also execute any JavaScript code (logic, functions, variables, and so on) inside the HTML directly by using curly braces { }, like this:
+  
+  <img width="690" alt="Screenshot 2022-05-31 at 10 52 50 PM" src="https://user-images.githubusercontent.com/17598334/171235397-371c99d4-07f7-470f-a475-a47a468a9b88.png">
+<img width="1070" alt="Screenshot 2022-05-31 at 10 53 17 PM" src="https://user-images.githubusercontent.com/17598334/171235476-3f0942f1-ac41-4425-b277-8f955987861b.png">
+
+
+I won't go into further details of JSX, but make sure that you consider the following rules while writing JSX:
+
+    HTML and component tags must always be closed < />
+    Some attributes like “class” become “className” (because class refers to JavaScript classes), “tabindex” becomes “tabIndex” 
+    and should be written camelCase
+    We can’t return more than one HTML element at once, so make sure to wrap them inside a parent tag:
