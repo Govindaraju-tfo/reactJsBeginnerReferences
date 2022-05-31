@@ -7,4 +7,10 @@
       The first thing you'll realize after installing your first React project is that a JavaScript function returns some HTML cod
 <img width="915" alt="Screenshot 2022-05-31 at 10 49 14 PM" src="https://user-images.githubusercontent.com/17598334/171234843-ebb30b9a-63e3-4ac3-94f6-79cf1a93117e.png">
 
-      This is a special and valid syntax extension for React which is called JSX (JavaScript XML). Normally in frontend-related projects, we keep HTML, CSS, and JavaScript code in separate files. However in React, this works a bit differently.
+      This is a special and valid syntax extension for React which is called JSX (JavaScript XML). Normally in frontend-related projects, 
+      we keep HTML, CSS, and JavaScript code in separate files. However in React, this works a bit differently.
+  
+  In React projects, we don't create separate HTML files, because JSX allows us to write HTML and JavaScript combined together in the same file,
+  like in the example above. You can, however, separate your CSS in another file.
+  
+  
