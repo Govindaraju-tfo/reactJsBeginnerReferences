@@ -38,3 +38,10 @@
               Consistent, deterministic installs that guarantee the structure of installed libraries are always the same
               Checksum testing of all packages to verify their integrity
               “Workspaces”, which facilitate using Yarn in a monorepo (multiple projects developed in a single source code repository)
+
+
+### Prerequisites
+      Before installing and using the Yarn package manager, you will need to have Node.js installed. 
+      To see if you already have Node.js installed, type the following command into your local command line terminal:
+<img width="690" alt="Screenshot 2022-05-31 at 11 11 30 PM" src="https://user-images.githubusercontent.com/17598334/171246205-b9a23364-d33c-4a2e-8456-d8ea6f1273ba.png">
+
