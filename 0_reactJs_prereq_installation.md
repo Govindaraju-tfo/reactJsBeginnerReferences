@@ -1,3 +1,46 @@
+# 11 hours / 8 projects of react 
+https://youtu.be/bMknfKXIFA8
+
+
+### Here are the topics you will learn about in this comprehensive course:
+https://www.freecodecamp.org/news/free-react-course-2022/
+    Local setup
+    Why React?
+    JSX
+    ReactDOM.render()
+    Custom components
+    Organizing components
+    Reusable components
+    JS inside JSX
+    Props
+    Destructuring props
+    Rendering arrays
+    Mapping components
+    Key prop
+    Passing objects as props
+    Spreading objects as props
+    Props vs state
+    useState
+    useState array destructuring
+    Changing state
+    Complex state
+    Refactoring state
+    Passing state as props
+    Local state
+    Unified state
+    Conditional rendering
+    React forms
+    Forms input
+    Forms state object
+    Submitting forms in React
+    Making API calls
+    useEffect
+    Async functions inside useEffect
+    Local storage with React
+    Lazy state initialization
+    Watch the full course below or on the freeCodeCamp.org YouTube channel (12-hour watch).
+
+
 # Install node / yarn 
 
 ## How to Download & Install Node.js
