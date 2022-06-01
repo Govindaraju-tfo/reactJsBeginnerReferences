@@ -33,3 +33,16 @@ I won't go into further details of JSX, but make sure that you consider the foll
   <img width="975" alt="Screenshot 2022-05-31 at 10 54 51 PM" src="https://user-images.githubusercontent.com/17598334/171235723-d61e6cc5-43f1-40d7-ae64-e7c523c2094e.png">
   
   
+  
+# What are Class Components?
+    The second type of component is the class component. 
+    Class components are ES6 classes that return JSX. Below, you see our same Welcome function, this time as a class component:
+    
+    <img width="690" alt="Screenshot 2022-06-01 at 9 22 04 PM" src="https://user-images.githubusercontent.com/17598334/171446934-5cfff0a9-dbe2-499e-88d6-a3f261d15160.png">
+    
+    Different from functional components, class components must have an additional render( ) method for returning JSX.
+
+## Why Use Class Components?
+    We used to use class components because of "state". In the older versions of React (version < 16.8), 
+    it was not possible to use state inside functional components.
+
