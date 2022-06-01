@@ -24,3 +24,10 @@
 <img width="1425" alt="Screenshot 2022-06-01 at 11 55 03 PM" src="https://user-images.githubusercontent.com/17598334/171475855-6add9d80-ee09-4b73-9035-3c9ad3108e7f.png">
 
 <hr>
+<bold>  move each component to independent files</bold>
+
+<img width="1429" alt="Screenshot 2022-06-02 at 12 35 50 AM" src="https://user-images.githubusercontent.com/17598334/171482807-39f52fbf-442a-45b7-a2c1-a21379f4d4e8.png">
+
+<hr>
+
+<hr>
