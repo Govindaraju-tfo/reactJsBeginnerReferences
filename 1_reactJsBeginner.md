@@ -67,3 +67,5 @@ I won't go into further details of JSX, but make sure that you consider the foll
  
  <img width="981" alt="Screenshot 2022-06-01 at 9 31 17 PM" src="https://user-images.githubusercontent.com/17598334/171448772-58349982-1f64-4b5c-a524-81e1e0ff5681.png">
 
+<img width="966" alt="Screenshot 2022-06-01 at 9 45 25 PM" src="https://user-images.githubusercontent.com/17598334/171451404-58901081-f559-4eb3-9cc7-4a7cec19337a.png">
+
