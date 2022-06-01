@@ -56,7 +56,7 @@ I won't go into further details of JSX, but make sure that you consider the foll
 
 ## What are Props in React?
   Another important concept of components is how they communicate.
-  React has a special object called a prop (stands for property) which we use to <span style="color: green"> transport data from one component to another. </span> 
+  React has a special object called a prop (stands for property) which we use to <font style="color: green"> transport data from one component to another. </font> 
 
   But be careful – props only transport data in a one-way flow (only from parent to child components). 
   It is not possible with props to pass data from child to parent, or to components at the same level.
