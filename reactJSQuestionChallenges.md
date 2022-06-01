@@ -14,7 +14,13 @@
  <bold> ADD Navigation to site :  </bold>
 
 <img width="915" alt="Screenshot 2022-06-01 at 11 47 07 PM" src="https://user-images.githubusercontent.com/17598334/171474494-80f36a00-e6e1-49f7-8f54-4de9b4ffb0b7.png">
+
 <img width="991" alt="Screenshot 2022-06-01 at 11 47 31 PM" src="https://user-images.githubusercontent.com/17598334/171474563-26847dae-a329-4023-bfa2-1493f07401f5.png">
+
 <img width="1312" alt="Screenshot 2022-06-01 at 11 48 27 PM" src="https://user-images.githubusercontent.com/17598334/171474719-dd5fa072-4c2e-4d01-897b-44e1e634197e.png">
+
+<img width="561" alt="Screenshot 2022-06-01 at 11 54 39 PM" src="https://user-images.githubusercontent.com/17598334/171475801-a31c6b6a-64f8-47dd-a430-a24fef4cae62.png">
+
+<img width="1425" alt="Screenshot 2022-06-01 at 11 55 03 PM" src="https://user-images.githubusercontent.com/17598334/171475855-6add9d80-ee09-4b73-9035-3c9ad3108e7f.png">
 
 <hr>
