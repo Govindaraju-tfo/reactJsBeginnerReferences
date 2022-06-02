@@ -13,6 +13,14 @@ https://www.w3schools.com/html/html_blocks.asp
 ### CSS Box Model
 https://www.w3schools.com/css/css_boxmodel.asp
 
+## Padding, margin, and border
+https://www.linkedin.com/learning/css-essential-training-3/padding-margin-and-border?autoplay=true&resume=false
+
+## Inline, block, and display
+https://www.linkedin.com/learning/css-essential-training-3/inline-block-and-display?autoplay=true&resume=false
+
+
+
 ![image](https://user-images.githubusercontent.com/17598334/150649712-749c9f81-499f-4690-aab2-c14c66296636.png)
 
 https://www.w3schools.com/cssref/css3_pr_filter.asp
