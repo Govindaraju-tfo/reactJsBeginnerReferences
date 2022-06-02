@@ -8,3 +8,5 @@ Before coding , have mental layou of you design
 
 
 <img width="768" alt="Screenshot 2022-06-02 at 1 54 25 PM" src="https://user-images.githubusercontent.com/17598334/171590357-aeb0e895-4e1a-4800-967b-e47ef96bb77a.png">
+
+<img width="1178" alt="Screenshot 2022-06-02 at 4 47 03 PM" src="https://user-images.githubusercontent.com/17598334/171617861-12654e93-7263-4e56-a32f-abffb73c3576.png">
