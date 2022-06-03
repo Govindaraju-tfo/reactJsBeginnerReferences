@@ -19,6 +19,7 @@ https://www.linkedin.com/learning/css-essential-training-3/padding-margin-and-bo
 ## Inline, block, and display
 https://www.linkedin.com/learning/css-essential-training-3/inline-block-and-display?autoplay=true&resume=false
 
+<img width="1680" alt="Screenshot 2022-06-02 at 11 48 49 PM" src="https://user-images.githubusercontent.com/17598334/171699277-c04b48c1-ff11-4863-a6de-eb1a8dd8300c.png">
 
 
 ![image](https://user-images.githubusercontent.com/17598334/150649712-749c9f81-499f-4690-aab2-c14c66296636.png)
